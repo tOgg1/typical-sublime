@@ -1,0 +1,4 @@
+[
+  {"caption": "Typical: Run in current file's directory", "command": "typical", "args": {"current_directory": true}},
+  {"caption": "Typical: Run in directory",  "command": "typical"}
+]
